@@ -79,12 +79,6 @@ Projects: Mini project details
 
 Footer: Copyright information
 
-📞 Contact
-Email: your-email@example.com
-
-Phone: +91 XXXXX XXXXX
-
-Location: Tamil Nadu, India
 
 ✨ Future Improvements
 Add animations and transitions
